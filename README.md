@@ -1,3 +1,4 @@
-zakirizvi.github.io
-Personal portfolio, basic CSS and HTML
-Single static page, nothing special
+# zakirizvi.github.io
+
+- Personal portfolio, basic CSS and HTML
+- Single static page, nothing special
